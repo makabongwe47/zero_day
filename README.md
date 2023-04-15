@@ -1,1 +1,1 @@
-"This is my very first read me, written on my local computer"
+My very first read me written on my local computer.
